@@ -7,7 +7,7 @@ Welcome to the new era of bulk ATAC analysis in the Greenleaf Lab!!! This docume
 ### Steps
 1. Clone this repository into your analysis folder and navigate into the downloaded folder:
 ```
-git clone https://github.com/bettybliu/snakeATAC-singularity.git snakeATAC
+git clone https://github.com/GreenleafLab/snakeATAC_singularity.git snakeATAC
 cd snakeATAC
 ```
 2. Go to file ```snakeATAC_config.py```, change variables in the ```User Inputs``` section based on your experiment. 
